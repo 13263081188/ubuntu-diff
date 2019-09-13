@@ -1,1 +1,5 @@
-https://wiki.winehq.org/Ubuntu
+首先 cd /etc/apt
+然后 sudo gedit sources.list
+
+进入网址https://mirrors.tuna.tsinghua.edu.cn/ 找到ubuntu然后点击其旁边的问号，选择相应的版本号复制配置内容然后将其更改进sources.list
+
